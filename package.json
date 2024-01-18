@@ -1,0 +1,12 @@
+{
+  "name": "gaming-mehedi",
+  "version": "1.0.0",
+  "description": "This is my first gaming website. Design with Html & Tailwind Css.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwind.css -o ./output/main.css -w"
+  },
+  "keywords": [],
+  "author": "Mehedi Hassan Miraj",
+  "license": "ISC"
+}
